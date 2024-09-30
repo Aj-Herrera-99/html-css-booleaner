@@ -13,7 +13,9 @@ body {
 }
 
 body>* {
-    padding: 0 20px;
+    /* padding: 0 250px; */
+    width: 80%;
+    margin: 0 auto;
 }
 
 /* header */
@@ -26,10 +28,16 @@ header {
     background-size: 500px;
 }
 
+header .img-box{
+    width: 80%;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+}
 header img {
     /* border: 1px solid red; */
     width: 300px;
     margin-top: 40px;
+    
 }
 
 /* main */
