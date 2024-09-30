@@ -79,7 +79,29 @@ tbody>tr:nth-child(odd){
     background-color: #B1E5F2;
 }
 
-
+/* footer */
+footer div {
+    color: #fff;
+    font-weight: bolder;
+    padding: 5px 0px 0px 5px;
+    margin-bottom: 20px;
+}
+.footer-picture-1{
+    margin-top: 10px;
+    border: 1px solid red;
+    height: 150px;
+    background-image: url("../img/monitor.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.footer-picture-2{
+    margin-top: 10px;
+    border: 1px solid red;
+    height: 150px;
+    background-image: url("../img/graph.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 
 
