@@ -34,7 +34,7 @@ header img {
 
 /* main */
 main {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding-top: 30px;
 }
 
@@ -88,7 +88,7 @@ footer div {
 }
 .footer-picture-1{
     margin-top: 10px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 150px;
     background-image: url("../img/monitor.jpg");
     background-size: contain;
@@ -96,7 +96,7 @@ footer div {
 }
 .footer-picture-2{
     margin-top: 10px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 150px;
     background-image: url("../img/graph.jpg");
     background-size: contain;
