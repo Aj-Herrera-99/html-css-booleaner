@@ -1,0 +1,24 @@
+*,*::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content-centering{
+    padding: 0 10px;
+}
+
+/* header */
+header {
+    width: 100%;
+    /* border: 1px solid red; */
+    background-image: url("../img/pattern.png");
+    background-color: #4EA0FF;
+    background-repeat: repeat-x;
+    background-size: 450px;
+}
+header img {
+    /* border: 1px solid red; */
+    width: 250px;
+    margin-top: 40px;
+}
