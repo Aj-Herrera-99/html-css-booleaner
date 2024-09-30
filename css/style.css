@@ -51,6 +51,40 @@ main {
     font-size: small;
 }
 
+.caption{
+    font-size: x-small;
+}
+/* parapragh */
+.paragraph p{
+    margin: 20px 0px ;
+}
+.paragraph ul {
+    list-style-position: inside;
+}
+/* table */
+table {
+    width: 100%;
+    /* text-align: left; */
+    border-collapse: collapse;
+    text-align: left;
+}
+thead{
+    background-color: #20A9E5;
+    color: #fff;
+}
+tr>*{
+    width: calc(100% /3);
+}
+tbody>tr:nth-child(odd){
+    background-color: #B1E5F2;
+}
+
+
+
+
+
+
+
 .grey-color {
     color: grey;
 }
